@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders and matches snapshot 1`] = `
+<body>
+  <div>
+    <div>
+      <h1
+        class="centered"
+      >
+        Team Selector
+      </h1>
+      <div>
+        <div
+          class="buttonBar"
+        >
+          <button
+            class="button"
+          >
+             
+            SoCal
+             
+          </button>
+          <button
+            class="button"
+          >
+             
+            NorCal
+             
+          </button>
+          <button
+            class="button"
+          >
+             
+            Reset
+             
+          </button>
+          <button
+            class="button"
+          >
+            Make Team
+          </button>
+        </div>
+        <div
+          class="flex"
+        >
+          <div
+            class="pictureText"
+          >
+            <div>
+              <img
+                alt="Adam Friedman"
+                src="adam-friedman.jpg"
+              />
+              <br />
+              Adam Friedman
+               
+              <br />
+              Account Executive
+               
+              <br />
+              NorCal
+
+              SoCal
+
+               
+              <br />
+              <br />
+            </div>
+          </div>
+          <div
+            class="pictureText"
+          >
+            <div>
+              <img
+                alt="Ceci Clark"
+                src="ceci-clarke.jpg"
+              />
+              <br />
+              Ceci Clark
+               
+              <br />
+              Head Of Construction
+               
+              <br />
+              SoCal
+
+               
+              <br />
+              <br />
+            </div>
+          </div>
+          <div
+            class="pictureText"
+          >
+            <div>
+              <img
+                alt="Courtney Lacy"
+                src="courtney-lacy.jpg"
+              />
+              <br />
+              Courtney Lacy
+               
+              <br />
+              Concierge
+               
+              <br />
+              NorCal
+
+              SoCal
+
+               
+              <br />
+              <br />
+            </div>
+          </div>
+          <div
+            class="pictureText"
+          >
+            <div>
+              <img
+                alt="John Cromwell"
+                src="jon-cromwell.jpg"
+              />
+              <br />
+              John Cromwell
+               
+              <br />
+              Head Of Construction
+               
+              <br />
+              NorCal
+
+               
+              <br />
+              <br />
+            </div>
+          </div>
+          <div
+            class="pictureText"
+          >
+            <div>
+              <img
+                alt="Kirsten Pearson"
+                src="kirsten-pearson.jpg"
+              />
+              <br />
+              Kirsten Pearson
+               
+              <br />
+              Concierge
+               
+              <br />
+              SoCal
+
+               
+              <br />
+              <br />
+            </div>
+          </div>
+          <div
+            class="pictureText"
+          >
+            <div>
+              <img
+                alt="Michael Carter"
+                src="michael-carter.jpg"
+              />
+              <br />
+              Michael Carter
+               
+              <br />
+              Account Executive
+               
+              <br />
+              NorCal
+
+               
+              <br />
+              <br />
+            </div>
+          </div>
+        </div>
+        <div
+          class="invisible"
+        >
+          <h2
+            class="centered"
+          />
+        </div>
+        <div
+          class="invisible"
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;
