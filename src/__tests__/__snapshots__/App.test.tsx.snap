@@ -49,6 +49,7 @@ exports[`App renders and matches snapshot 1`] = `
             <div>
               <img
                 alt="Adam Friedman"
+                class="TeamPicture"
                 src="adam-friedman.jpg"
               />
               <br />
@@ -73,6 +74,7 @@ exports[`App renders and matches snapshot 1`] = `
             <div>
               <img
                 alt="Ceci Clark"
+                class="TeamPicture"
                 src="ceci-clarke.jpg"
               />
               <br />
@@ -95,6 +97,7 @@ exports[`App renders and matches snapshot 1`] = `
             <div>
               <img
                 alt="Courtney Lacy"
+                class="TeamPicture"
                 src="courtney-lacy.jpg"
               />
               <br />
@@ -119,6 +122,7 @@ exports[`App renders and matches snapshot 1`] = `
             <div>
               <img
                 alt="John Cromwell"
+                class="TeamPicture"
                 src="jon-cromwell.jpg"
               />
               <br />
@@ -141,6 +145,7 @@ exports[`App renders and matches snapshot 1`] = `
             <div>
               <img
                 alt="Kirsten Pearson"
+                class="TeamPicture"
                 src="kirsten-pearson.jpg"
               />
               <br />
@@ -163,6 +168,7 @@ exports[`App renders and matches snapshot 1`] = `
             <div>
               <img
                 alt="Michael Carter"
+                class="TeamPicture"
                 src="michael-carter.jpg"
               />
               <br />
